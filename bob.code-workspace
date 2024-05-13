@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../flowers"
+		},
+		{
+			"path": "../silver"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Solarized Dark"
+	}
+}
